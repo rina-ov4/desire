@@ -1759,6 +1759,10 @@ body {
         display: none;
     }
 
+    .rightside__menu--close {
+        display: none;
+    }
+
     .menu {
         padding-right: 0;
         margin: 0;
@@ -1934,7 +1938,7 @@ body {
         position: relative;
         z-index: 11;
         text-align: center;
-        transform: translateY(-280px);
+        transform: translateY(-400px);
         transition: all 0.5s;
     }
 
