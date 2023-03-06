@@ -1755,6 +1755,10 @@ body {
         display: none;
     }
 
+    .rightside__menu {
+        display: none;
+    }
+
     .menu {
         padding-right: 0;
         margin: 0;
