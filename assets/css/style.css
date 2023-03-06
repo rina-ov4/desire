@@ -1938,7 +1938,7 @@ body {
         position: relative;
         z-index: 11;
         text-align: center;
-        transform: translateY(-400px);
+        transform: translateY(-600px);
         transition: all 0.5s;
     }
 
